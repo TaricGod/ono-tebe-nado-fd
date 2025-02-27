@@ -59,7 +59,7 @@
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: -138px;
+  background-position: center;
   padding: 165px 50px 50px;
   z-index: 0;
 }
